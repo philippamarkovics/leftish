@@ -1,0 +1,21 @@
+{
+  "name": "leftish",
+  "displayName": "leftish",
+  "description": "Minimal color scheme inspired by [Left](https://100r.co/site/left.html)",
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.89.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Leftish",
+        "uiTheme": "vs",
+        "path": "./themes/Leftish-color-theme.json"
+      }
+    ]
+  }
+}
