@@ -35,6 +35,9 @@ For a calmer editing experience, I recommend the following settings:
 "editor.lightbulb.enabled": "off",
 "editor.lineNumbers": "off",
 "editor.renderWhitespace": "selection",
+"calva.highlight.enableBracketColors": false,
+"calva.highlight.rainbowIndentGuides": false,
+"calva.highlight.highlightActiveIndent": false,
 ```
 
 ## Disclaimer
