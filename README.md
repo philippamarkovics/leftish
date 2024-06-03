@@ -38,6 +38,7 @@ For a calmer editing experience, I recommend the following settings:
 "calva.highlight.enableBracketColors": false,
 "calva.highlight.rainbowIndentGuides": false,
 "calva.highlight.highlightActiveIndent": false,
+"breadcrumbs.enabled": false,
 ```
 
 ## Disclaimer

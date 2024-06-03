@@ -26,7 +26,8 @@
     (let [[_ next] (->> points
                         (filter #(not= current %))
                         (map (fn [point]
-                               [(->angle (subtract-vec prev current) (subtract-vec point current)) point]))
+                               [(->angle (subtract-vec prev current)
+                                         (subtract-vec point current)) point]))
                         (sort (comp - compare))
                         first)]
       (if (= next (first hull-points))

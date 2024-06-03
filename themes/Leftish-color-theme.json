@@ -139,7 +139,13 @@
 		"gitDecoration.stageDeletedResourceForeground": "#3e8281",
 		"gitDecoration.untrackedResourceForeground": "#3e8281",
 		"gitDecoration.submoduleResourceForeground": "#3e8281",
-		"gitDecoration.conflictingResourceForeground": "#ff7777"
+		"gitDecoration.conflictingResourceForeground": "#ff7777",
+
+		"minimap.selectionHighlight": "#72dec18b",
+		"minimap.selectionOccurrenceHighlight": "#72dec18b",
+		"minimap.findMatchHighlight": "#ffb35d54",
+		"minimap.errorHighlight": "#ff7777",
+		"minimap.warningHighlight": "#55bbaa86"
 	},
 	"tokenColors": [
 		{
