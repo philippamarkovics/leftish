@@ -6,7 +6,7 @@ A VS Code color theme with minimal highlighting inspired by [Left](https://100r.
 
 * Most VS Code themes look like fireworks making it hard to discern any meaning from the colors. This one aims to be easy on the eyes and reserves colors for meaningful things.
 * Emphasize: comments, selections, matches, definitions (what you search for and what you communicate about)
-* De-emphasize: control flow statements (if, else, loops, etc) — those are usually the most obvious and least interesting parts of the program
+* De-emphasize: control flow statements (if, else, loops, etc) — those are usually the most obvious and least interesting parts of the program.
 
 Leftish is heavily inspired by [Left](https://100r.co/site/left.html), [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) and [brutalist-theme](https://asylum.madhouse-project.org/blog/2018/09/06/the-brutalist-path/).
 
@@ -23,6 +23,7 @@ For a calmer editing experience, I recommend the following settings:
 * Hide the activity bar: `View` → `Appearance` → `Activity Bar Position` → `Hidden`
 * Hide the sidebar: `⌘ B` or `Ctrl B`
 * Use the Commands Palette instead: `⇧ ⌘ P` or `⇧ Ctrl P`
+* Hide the bottom Output Panel: Drag from the top frame of the panel down until it disappears
 * Disable icons, rainbow parens, indentation guides, breadcrumbs, lightbulbs *sigh*, and line numbers (use `Ctrl G` instead) by adding this to your User Settings JSON file (`⇧ ⌘ P` → `Open User Settings (JSON)`):
 
 ```JSON

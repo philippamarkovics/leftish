@@ -1,8 +1,13 @@
 {
   "name": "leftish",
-  "displayName": "leftish",
+  "displayName": "Leftish",
   "description": "Minimal color scheme inspired by [Left](https://100r.co/site/left.html)",
   "version": "0.1.0",
+  "publisher": "Philippa Markovics",
+  "license": "MIT",
+  "maintainers": [
+    "Philippa Markovics <philippa@markovics.com>"
+  ],
   "engines": {
     "vscode": "^1.89.0"
   },
@@ -17,5 +22,13 @@
         "path": "./themes/Leftish-color-theme.json"
       }
     ]
+  },
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/philippamarkovics/leftish"
+  },
+  "bugs": {
+    "url": "https://github.com/philippamarkovics/leftish/issues"
   }
 }

@@ -129,7 +129,17 @@
 		"calva.inlineForegroundColor": "#55bbaa",
 
 		"diffEditor.removedTextBackground": "#ff77773f",
-		"diffEditor.insertedTextBackground": "#72dec171"
+		"diffEditor.insertedTextBackground": "#72dec171",
+
+		"gitDecoration.addedResourceForeground": "#3e8281",
+		"gitDecoration.modifiedResourceForeground": "#3e8281",
+		"gitDecoration.deletedResourceForeground": "#3e8281",
+		"gitDecoration.renamedResourceForeground": "#3e8281",
+		"gitDecoration.stageModifiedResourceForeground": "#3e8281",
+		"gitDecoration.stageDeletedResourceForeground": "#3e8281",
+		"gitDecoration.untrackedResourceForeground": "#3e8281",
+		"gitDecoration.submoduleResourceForeground": "#3e8281",
+		"gitDecoration.conflictingResourceForeground": "#ff7777"
 	},
 	"tokenColors": [
 		{

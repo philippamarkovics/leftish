@@ -1,0 +1,31 @@
+// TODO:
+// Read through the [spec](https://github.com/TodePond/DreamBerd/blob/main/README.md),
+// then check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md)
+// Ask Lu to add missing DreamBerd features:
+// * emotional modifiers (it’s 2024 -- we can do rich text, we sure as hell should be able to do emotions)
+//   * e.g. `print("Still looking for the DreamBerd Installer!!")😤`
+// * embeddable, auto-executing code in comments, e.g. ${["Lu", "Luke"].random(
+//// TODO:
+//// Read through the [spec](https://github.com/TodePond/DreamBerd/blob/main/README.md),
+// then check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md)
+//// * emotional modifiers (it’s 2024 -- we can do rich text, we sure as hell should be able to do emotions)
+////   * e.g. `print("Still looking for the DreamBerd Installer!!")😤`
+//// * embeddable, auto-executing code in comments, e.g. ${["Lu", "Luke"].random(
+////// TODO:
+////// Read through the [spec](https://github.com/TodePond/DreamBerd/blob/main/README.md),
+//// then check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md)
+////// * emotional modifiers (it’s 2024 -- we can do rich text, we sure as hell should be able to do emotions)
+//////   * e.g. `print("Still looking for the DreamBerd Installer!!")😤`
+////// * embeddable, auto-executing code in comments, e.g. ${["Lu", "Luke"].random(
+//////// TODO:
+//////// Read through the [spec](https://github.com/TodePond/DreamBerd/blob/main/README.md),
+//////// then check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md)
+//////// * emotional modifiers (it’s 2024 -- we can do rich text, we sure as hell should be able to do emotions)
+////////   * e.g. `print("Still looking for the DreamBerd Installer!!")😤`
+//////// * embeddable, auto-executing code in comments, e.g. ${["Lu", "Luke"].random(
+////////// TODO:
+////////// Read through the [spec](https://github.com/TodePond/DreamBerd/blob/main/README.md),
+////////// then check out the [examples](https://github.com/TodePond/DreamBerd/blob/main/Examples.md)
+////////// * emotional modifiers (it’s 2024 -- we can do rich text, we sure as hell should be able to do emotions)
+//////////   * e.g. `print("Still looking for the DreamBerd Installer!!")😤`
+////////// * embeddable, auto-executing code in comments, e.g. ${["Lu", "Luke"].random(AAAAAAAAAAAAAAAAH

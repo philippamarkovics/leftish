@@ -1,0 +1,36 @@
+body {
+  margin: 0;
+  padding: 0;
+  color: #333333;
+}
+
+/* Header styling */
+header {
+  background-color: #3e8281;
+  color: white;
+  padding: 20px;
+  text-align: center;
+}
+
+/* Paragraph styling */
+p {
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 20px;
+}
+
+/* Button styling */
+button {
+  display: inline-block;
+  padding: 10px 20px;
+  font-size: 16px;
+  color: white;
+  background-color: #55aabb;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin: 20px;
+}
+button:hover {
+  background-color: #72dec2;
+}
