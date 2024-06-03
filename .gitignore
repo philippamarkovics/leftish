@@ -4,3 +4,4 @@ node_modules
 .vscodeignore
 .clj-kondo/
 .lsp/
+.DS_Store

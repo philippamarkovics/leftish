@@ -1,8 +1,8 @@
 {
   "name": "leftish",
   "displayName": "Leftish",
-  "description": "Minimal color scheme inspired by [Left](https://100r.co/site/left.html)",
-  "version": "0.1.0",
+  "description": "Minimal color scheme inspired by https://100r.co/site/left.html",
+  "version": "0.1.2",
   "publisher": "unkai",
   "license": "MIT",
   "maintainers": [

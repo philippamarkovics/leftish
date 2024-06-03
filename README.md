@@ -10,6 +10,8 @@ A VS Code color theme with minimal highlighting inspired by [Left](https://100r.
 
 Leftish is heavily inspired by [Left](https://100r.co/site/left.html), [Alabaster](https://github.com/tonsky/sublime-scheme-alabaster) and [brutalist-theme](https://asylum.madhouse-project.org/blog/2018/09/06/the-brutalist-path/).
 
+![Screenshot of a VS Code editor with the Leftish color theme active](Leftish.jpg)
+
 ## How can I use it?
 
 * In VS Code, go to `View` → `Extensions`
