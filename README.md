@@ -26,6 +26,7 @@ For a calmer editing experience, I recommend the following settings:
 * Hide the sidebar: `⌘ B` or `Ctrl B`
 * Use the Commands Palette instead: `⇧ ⌘ P` or `⇧ Ctrl P`
 * Hide the bottom Output Panel: Drag from the top frame of the panel down until it disappears
+* (or use the [AutoHide](https://marketplace.visualstudio.com/items?itemName=sirmspencer.vscode-autohide) extension)
 * Disable icons, rainbow parens, indentation guides, breadcrumbs, lightbulbs *sigh*, and line numbers (use `Ctrl G` instead) by adding this to your User Settings JSON file (`⇧ ⌘ P` → `Open User Settings (JSON)`):
 
 ```JSON
